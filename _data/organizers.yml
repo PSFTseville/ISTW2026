@@ -1,0 +1,8 @@
+- group: "Main organizer"
+  elements:
+    - {
+        name: "PSFT",
+        description: "Plasma Science and Fusion Technology",
+        link: "https://psft.eu",
+        imageUrl: "PSFT-logo-white.svg",
+      }

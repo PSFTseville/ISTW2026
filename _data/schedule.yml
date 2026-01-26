@@ -1,0 +1,25 @@
+- 
+  date: "2014-10-24"
+  dateReadable: "October 24"
+  tracks: 
+    - {title: "Monday 17th March", color: "#90be4e"}
+    - {title: "Tuesday 18th March", color: "#03a9f4"}
+    - {title: "Wednesday 19th March", color: "#e91e63"}
+    - {title: "Thursday 20th March", color: "#e91e63"}
+    - {title: "Friday 21st March", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 003, 004, 004, 004]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404, 004, 004, 004]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307, 004, 004, 004, 004]
+    }
