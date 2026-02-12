@@ -4,7 +4,7 @@
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">International Programme Advisory Committee</h4>
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.team != null %}
-                <h6 class="name">{{ teamMember.name }}, <span>{{ teamMember.surname }} {{ teamMember.title }}</span></h6>
+                <h6 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }} {{ teamMember.title }}</span></h6>
             
             {% endif %} {% endfor %}
         </div>
@@ -12,7 +12,7 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Local Organizing Committee</h4>
             {% for teamMember in site.data.scientific-committee %} {% if teamMember.subTeam != null %}
             
-                    <h6 class="name">{{ teamMember.name }}, <span>{{ teamMember.surname }}</span></h6>
+                    <h6 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h6>
             
             {% endif %} {% endfor %}
         </div>
