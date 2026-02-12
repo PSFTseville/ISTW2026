@@ -1,7 +1,7 @@
 - id: 1
-  name: "Manuel (Chair)"
+  name: "Manuel"
   surname: "Garcia-Munoz"
-  title: "Spain"
+  title: "(University of Seville, Spain)"
   thumbnailUrl: manuel-garcia.jpg
   team: true
   social:
