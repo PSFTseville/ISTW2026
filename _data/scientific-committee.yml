@@ -11,100 +11,50 @@
         link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135",
       }
 - id: 2
-  name: "William"
-  surname: "Heidbrink"
-  title: "United States of America"
+  name: "J."
+  surname: "Berkery"
+  title: "(PPPL, USA)"
   team: true
 
 - id: 3
-  name: "Boris"
-  surname: "Breizman"
-  title: "United States of America"
+  name: "S."
+  surname: "Diem"
+  title: "(University of Wisconsin, USA)"
   team: true
 - id: 4
-  name: "HuiShan"
-  surname: "Cai"
-  title: "China"
+  name: "O."
+  surname: "Asunta"
+  title: "(Tokamak Energy, UK)"
   team: true
 - id: 5
-  name: "Wei"
-  surname: "Chen"
-  title: "China"
+  name: "Jong-Kyu"
+  surname: "Park"
+  title: "(Seoul National University, South Korea)"
   team: true
 - id: 6
-  name: "Ambrogio"
-  surname: "Fasoli"
-  title: "Switzerland"
+  name: "Akira"
+  surname: "Ejiri"
+  title: "(University of Tokyo, Japan)"
   team: true
 - id: 7
-  name: "Eric"
-  surname: "Fredrickson"
-  title: "United States of America"
+  name: "J."
+  surname: "Harrison"
+  title: "(UKAEA)
   team: true
 - id: 8
-  name: "Tünde"
-  surname: "Fülöp"
-  title: "Sweden"
+  name: "H."
+  surname: "Meyer"
+  title: "(UKIFS)"
   team: true
 - id: 9
-  name: "Yaroslav"
-  surname: "Kolesnichenko"
-  title: "Ukraine"
+  name: "Tan"
+  surname: "Yi"
+  title: "(Tsinghua University, China)"
   team: true
 - id: 10
-  name: "Philipp"
-  surname: "Lauber"
-  title: "Germany"
-  team: true
-- id: 11
-  name: "Simon"
-  surname: "Pinches"
-  title: "ITER Organization"
-  team: true
-- id: 12
-  name: "Sergei"
-  surname: "Sharapov"
-  title: "United Kingdom"
-  team: true
-- id: 13
-  name: "Kouji"
-  surname: "Shinohara"
-  title: "Japan"
-  team: true
-- id: 14
-  name: "Yasushi"
-  surname: "Todo"
-  title: "Japan"
-  team: true
-- id: 24
-  name: "Andreas"
-  surname: "Bierwage"
-  title: "Japan"
-  team: true
-- id: 25
-  name: "Gyungjin"
-  surname: "Choi"
-  title: "Korea"
-  team: true
-- id: 27
-  name: "Matthew"
-  surname: "Hole"
-  title: "Australia"
-  team: true
-- id: 28
-  name: "Taina"
-  surname: "Kurki-Suonio"
-  title: "Finland"
-  team: true
-- id: 29
-  name: "Mervi"
-  surname: "Mantsinen"
-  title: "Spain"
-  team: true
-- id: 15
-  name: "Gregorio"
-  surname: "Vlad"
-  title: "Italy"
+  name: "F."
+  surname: "Alladio"
+  title: "(ENEA, Italy)"
   team: true
 - id: 30
   name: "Manuel"
@@ -112,41 +62,34 @@
   title: "Spain"
   subTeam: true
 - id: 31
-  name: "Joaquin"
-  surname: "Galdon-Quiroga"
-  title: "Spain"
-  subTeam: true
-- id: 32
-  name: "Javier"
-  surname: "Gonzalez-Martin"
-  title: "Spain"
-  subTeam: true
-- id: 33
-  name: "Lucia"
-  surname: "Sanchis-Sanchez"
-  title: "Spain"
-  subTeam: true
-- id: 34
   name: "Eleonora"
   surname: "Viezzer"
   title: "Spain"
-  thumbnailUrl: eleonora-viezzer.jpg
   subTeam: true
-  social:
-    - { name: "twitter", link: "https://x.com/eleonoraviezzer" }
-    - {
-        name: "site",
-        link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=23831",
-      }
-- id: 35
+- id: 32
   name: "Gloria"
-  surname: "Jurado-Sanchez"
-  title: "Spain (Admin)"
+  surname: "Jurado"
+  title: "Spain"
+  subTeam: true
+- id: 33
+  name: "Diego"
+  surname: "Cruz Zabala"
+  title: "Spain"
+  subTeam: true
+- id: 34
+  name: "Alfonso"
+  surname: "Rodríguez González"
+  title: "Spain"
+  subTeam: true
+- id: 35
+  name: "Fernando"
+  surname: "Puentes del Pozo"
+  title: "Spain"
   subTeam: true
 - id: 36
   name: "Estefania"
-  surname: "Garcia-Gallardo"
-  title: "Spain (IT)"
+  surname: "García Gallardo"
+  title: "Spain"
   subTeam: true
 - id: 16
   title: "Alpha Particles Physics"
