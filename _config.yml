@@ -65,7 +65,7 @@ typeoutFallback: ""
 aboutBlock:
   - {
       text:
-        "The 23rd International Spherical Torus Workshup will be held in Seville, Spain. The objectives of this workshop are to contribute to advancing the understanding of spherical tori (ST) configurations and to enhance their potential for fusion power applications. The scope of the meeting covers the full range of research activities on STs, extended to their interface with other compact toroid fusion concepts, namely, spheromaks and field reversed configurations, and aims to provide a forum for discussion and collaboration enhancement.",
+        "The 23rd International Spherical Torus Workshop will be held in Seville, Spain. The objectives of this workshop are to contribute to advancing the understanding of spherical tori (ST) configurations and to enhance their potential for fusion power applications. The scope of the meeting covers the full range of research activities on STs, extended to their interface with other compact toroid fusion concepts, namely, spheromaks and field reversed configurations, and aims to provide a forum for discussion and collaboration enhancement.",
     }
 
 # Statistic Block
