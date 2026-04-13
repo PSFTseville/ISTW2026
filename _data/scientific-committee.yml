@@ -61,11 +61,6 @@
   surname: "Jurado"
   title: "Spain"
   subTeam: true
-- id: 33
-  name: "Diego"
-  surname: "Cruz Zabala"
-  title: "Spain"
-  subTeam: true
 - id: 34
   name: "Alfonso"
   surname: "Rodríguez González"
