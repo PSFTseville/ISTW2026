@@ -1,7 +1,7 @@
 - id: 1
-  name: "M."
-  surname: "Garcia-Munoz"
-  title: "(University of Seville, Spain)"
+  name: "K."
+  surname: "Thome"
+  title: "General Atomics, San Diego, CA, USA"
   thumbnailUrl: manuel-garcia.jpg
   team: true
   social:
@@ -11,50 +11,40 @@
         link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135",
       }
 - id: 2
-  name: "J."
-  surname: "Berkery"
-  title: "(PPPL, USA)"
+  name: "J.-K."
+  surname: "Park"
+  title: "Seoul National University, Seoul, Republic of Korea"
   team: true
 
 - id: 3
-  name: "S."
-  surname: "Diem"
-  title: "(University of Wisconsin, USA)"
-  team: true
-- id: 4
   name: "O."
   surname: "Asunta"
-  title: "(Tokamak Energy, UK)"
+  title: "Tokamak Energy, Abingdon, UK"
+  team: true
+- id: 4
+  name: "Y."
+  surname: "Tan"
+  title: "Tsinghua University, Beijing, China"
   team: true
 - id: 5
-  name: "Jong-Kyu"
-  surname: "Park"
-  title: "(Seoul National University, South Korea)"
+  name: "S."
+  surname: "Elmore"
+  title: "United Kingdom Atomic Energy Authority, Abingdon, UK"
   team: true
 - id: 6
-  name: "Akira"
-  surname: "Ejiri"
-  title: "(University of Tokyo, Japan)"
+  name: "E."
+  surname: "Viezzer"
+  title: "University of Seville, Seville, Spain"
   team: true
 - id: 7
-  name: "J."
-  surname: "Harrison"
-  title: "(UKAEA)"
+  name: "A."
+  surname: "Ejiri"
+  title: "University of Tokyo, Tokyo, Japan"
   team: true
 - id: 8
-  name: "H."
-  surname: "Meyer"
-  title: "(UKIFS)"
-  team: true
-- id: 9
-  name: "Tan"
-  surname: "Yi"
-  title: "(Tsinghua University, China)"
-  team: true
-- id: 10
-  name: "F."
-  surname: "Alladio"
-  title: "(ENEA, Italy)"
+  name: "S."
+  surname: "Diem"
+  title: "University of Wisconsin, Madison, WI, USA"
   team: true
 - id: 30
   name: "Manuel"
