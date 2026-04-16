@@ -1,4 +1,16 @@
 - id: 1
+  name: "M."
+  surname: "Garcia-Munoz"
+  title: "University of Seville, Seville, Spain (Chair)"
+  thumbnailUrl: manuel-garcia.jpg
+  team: true
+  social:
+    - { name: "twitter", link: "https://x.com/PSFT__" }
+    - {
+        name: "site",
+        link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135",
+      }
+- id: 2
   name: "K."
   surname: "Thome"
   title: "General Atomics, San Diego, CA, USA"
@@ -10,47 +22,42 @@
         name: "site",
         link: "https://investigacion.us.es/sisius/sis_showpub.php?idpers=19135",
       }
-- id: 2
+- id: 3
   name: "J.-K."
   surname: "Park"
   title: "Seoul National University, Seoul, Republic of Korea"
   team: true
 
-- id: 3
+- id: 4
   name: "O."
   surname: "Asunta"
   title: "Tokamak Energy, Abingdon, UK"
   team: true
-- id: 4
+- id: 5
   name: "Y."
   surname: "Tan"
   title: "Tsinghua University, Beijing, China"
   team: true
-- id: 5
+- id: 6
   name: "S."
   surname: "Elmore"
   title: "United Kingdom Atomic Energy Authority, Abingdon, UK"
   team: true
-- id: 6
+- id: 7
   name: "E."
   surname: "Viezzer"
   title: "University of Seville, Seville, Spain"
   team: true
-- id: 7
+- id: 8
   name: "A."
   surname: "Ejiri"
   title: "University of Tokyo, Tokyo, Japan"
   team: true
-- id: 8
+- id: 9
   name: "S."
   surname: "Diem"
   title: "University of Wisconsin, Madison, WI, USA"
   team: true
-- id: 30
-  name: "Manuel"
-  surname: "Garcia-Munoz"
-  title: "Spain"
-  subTeam: true
 - id: 31
   name: "Eleonora"
   surname: "Viezzer"
